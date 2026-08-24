@@ -1,0 +1,11 @@
+gradio>=4.44
+diffusers>=0.31
+transformers>=4.44
+accelerate>=0.33
+safetensors>=0.4
+torch>=2.4
+torchvision
+imageio
+imageio-ffmpeg
+Pillow
+numpy
